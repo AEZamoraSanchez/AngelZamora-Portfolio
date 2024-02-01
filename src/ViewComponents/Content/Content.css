@@ -1,0 +1,9 @@
+
+.contentPortfolio {
+     display: flex;
+     flex-direction: column;
+     width: 100%;
+     align-items: center;
+     margin: 0;
+     /* margin: 50px; */
+}

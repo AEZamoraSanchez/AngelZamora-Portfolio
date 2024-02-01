@@ -1,0 +1,18 @@
+.sectionProjects {
+     width: 100%;
+     padding: 10px;
+     display: flex;
+     flex-direction: column;
+     /* padding-top: 11vh; */
+}
+
+.sectionProjectsH {
+     font-size: 32px;
+     margin: 15px;
+     color: rgb(241, 221, 255);
+
+     @media( min-width: 900px ) {
+          margin-left: 5vw;
+     }
+
+}
